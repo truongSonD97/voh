@@ -7,10 +7,15 @@ hcmut/cse/trafficnotices/service/UserService$1.class
 hcmut/cse/trafficnotices/rest/RestAuthenticationEntryPoint.class
 hcmut/cse/trafficnotices/entity/Address.class
 hcmut/cse/trafficnotices/controller/AggregateAddressController.class
+hcmut/cse/trafficnotices/util/RestUtils.class
 hcmut/cse/trafficnotices/util/Constants.class
+hcmut/cse/trafficnotices/dto/RestRecordDTO.class
 hcmut/cse/trafficnotices/dto/UserDTO.class
 hcmut/cse/trafficnotices/controller/AggregateRecordController.class
+hcmut/cse/trafficnotices/util/StringSimilarity.class
 hcmut/cse/trafficnotices/controller/PersonSharingController.class
+hcmut/cse/trafficnotices/util/DTOConverter.class
+hcmut/cse/trafficnotices/util/ErrorDescMap.class
 hcmut/cse/trafficnotices/entity/User.class
 hcmut/cse/trafficnotices/service/JwtService.class
 hcmut/cse/trafficnotices/repository/TrafficStatusRepository.class
