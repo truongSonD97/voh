@@ -1,0 +1,23 @@
+#read-title{
+  padding: 0;
+}
+#title-content{
+  padding-left: 50px;
+  padding-top: 0.3em;
+}
+.read-child-box{
+  padding: 3px !important;
+}
+
+.tableToolbar{
+  position: absolute;
+  top: 1vh;
+  right: 40vw;
+  font-size: 1.2em;
+  z-index: 99;
+  width: 25% !important;
+}
+
+.paper-title{
+  background-color: #d7ccc8 !important;
+}

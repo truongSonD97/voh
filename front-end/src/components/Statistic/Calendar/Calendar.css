@@ -1,0 +1,11 @@
+.calendar-ic {
+  float: right;
+  margin-left: -25px;
+  margin-top: 3px;
+  position: relative;
+  z-index: 99;
+}
+
+.react-datepicker-popper{
+  z-index: 99;
+}

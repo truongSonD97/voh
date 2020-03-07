@@ -1,0 +1,38 @@
+.dialogPaper{
+  overflow-x: visible;
+}
+.left-sub-contain{
+  background: white;
+  position: relative;
+  padding-top: 2vh;
+  border-right: #757575 solid 0.2em;
+}
+
+
+.ReactTable .rt-thead {
+  overflow-y: scroll;
+}
+
+.right-sub-contain{
+  position: relative !important;
+}
+
+.right-sub-contain .tableToolbar{
+  right: 20vw;
+  font-size: 1.1em;
+  width: 30% !important;
+}
+
+.right-sub-contain .MuiFab-sizeSmall {
+  width: 30px;
+  height: 30px;
+}
+
+.right-sub-contain .MuiSvgIcon-root {
+  width: 0.9em;
+  height: 0.9em;
+}
+
+/*.insert-box-content{*/
+/*  padding: 0 !important;*/
+/*}*/

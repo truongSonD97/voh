@@ -1,0 +1,13 @@
+.statistic-icon{
+  color: #83878D !important;
+  min-width: 34px !important;
+}
+.statistic-list-nav{
+  font-size: 10px !important;
+  border-right: #757575 solid 0.2em;
+  min-height: calc(100vh - 39px);
+}
+.MuiListItem-root{
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+}

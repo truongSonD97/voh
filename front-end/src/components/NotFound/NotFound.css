@@ -1,0 +1,57 @@
+.bodyPage{
+    background-color: #0A0A24;
+    margin: 0;
+}
+
+#clouds {
+    width: 40%;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 28%;
+}
+
+#stars {
+    width: 35%;
+    position: absolute;
+    margin-left: 28%;
+}
+
+#body {
+    overflow: hidden;
+}
+
+
+.error404 {
+    color: #FFFFFF;
+    font-size: 8vw;
+    opacity: 0.8;
+    display: block;
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+    margin-top: 0;
+    width: 100%;
+    font-family: 'Alfa Slab One', serif;
+}
+
+
+#moon {
+    width: 25%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 37%;
+    top: 0;
+    left: 0;
+}
+
+
+#astronaut {
+    position: absolute;
+    width: 8%;
+    animation: bobble 4s infinite;
+    margin-top: 5%;
+    margin-left: 46%;
+    top: 10%;
+    left: 0;
+}
+

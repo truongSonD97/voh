@@ -1,0 +1,42 @@
+.formInputContainer{
+  padding: 10px !important;
+  margin: 0 !important;
+}
+
+.MuiOutlinedInput-input {
+  padding: 12.5px 9px !important;
+}
+.MuiOutlinedInput-multiline {
+  padding: 0 9px !important;
+}
+
+.MuiFormHelperText-contained{
+  position: absolute;
+  bottom: -15px;
+}
+
+#speedLabel{
+  background-color: white;
+  padding: 0 5px;
+}
+
+#submitFormBtn{
+  background-color: #222E3D;
+  color: white;
+}
+
+.inputField{
+  padding-bottom: 21px !important;
+}
+
+.MuiAutocomplete-groupUl{
+  padding: 5px 20px !important;
+  background-color: #2a87d0 !important;
+}
+
+.MuiInputBase-formControl{
+  padding: 0 !important;
+}
+.MuiInputLabel-formControl[data-shrink="false"]{
+  top: -6px !important;
+}

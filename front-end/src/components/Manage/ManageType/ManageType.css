@@ -1,0 +1,22 @@
+.ReactTable .rt-thead {
+  overflow-y: scroll;
+}
+.circle {
+  position: absolute;
+  z-index: 1;
+  bottom:3em ;
+  right: 3em;
+  border-radius: 50% 0px; /* the magic */
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  text-align: center;
+  border-color: antiquewhite;
+  background-color: #b3ff66;
+  opacity: 1;
+  text-transform: uppercase;
+}
+.circle:hover{
+  opacity: 0.9;
+  background-color: green;
+  border-color: antiquewhite;
+}

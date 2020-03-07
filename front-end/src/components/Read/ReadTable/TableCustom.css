@@ -1,0 +1,59 @@
+.MuiTableCell-sizeSmall{
+  padding: 0 !important;
+}
+
+.MuiTableRow-root[stripedrows="true"] .MuiTableCell-root[stripedCells='true']{
+  background-color: #c5e1a5 !important;
+}
+.MuiTableRow-root[stripedrows="true"] .MuiTableCell-root[stripedCells='false']{
+  background-color: #e6ee9c !important;
+}
+.MuiTableRow-root[stripedrows="false"] .MuiTableCell-root[stripedCells='true']{
+  background-color: #dcedc8 !important;
+}
+.MuiTableRow-root[stripedrows="false"] .MuiTableCell-root[stripedCells='false']{
+  background-color: #f0f4c3 !important;
+}
+
+
+.MuiTableRow-root[priority="true"] .MuiTableCell-root[stripedCells='true']{
+  background-color: #7cb342 !important;
+}
+.MuiTableRow-root[priority="true"] .MuiTableCell-root[stripedCells='false'] {
+  background-color: #c0ca33 !important;
+}
+
+.records-table{
+  height: 79vh;
+  width: 100% ;
+  overflow: auto;
+}
+
+.statistic-table{
+  height: 70vh;
+}
+
+.records-cell-table{
+  background-color: #004d40 !important;
+  color: white !important;
+  padding-top: 0.3em !important;
+  padding-bottom: 0.3em !important;
+}
+
+.selectAmountPage select{
+  z-index: 99;
+}
+
+.selectAmountPage{
+  font-size: medium;
+}
+
+.custom-table-content{
+  padding: 0 1vw;
+  /*background-color: #aeaeae;*/
+}
+
+.custom-table-content h5{
+  color: #d50000;
+}
+

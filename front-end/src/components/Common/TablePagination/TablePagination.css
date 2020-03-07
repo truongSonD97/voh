@@ -1,0 +1,28 @@
+.Table__itemCount {
+  font-size: 14px;
+}
+
+.Table__pagination {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0.5em;
+  background-color: #e0e0e0;
+}
+
+.Table__pageButton {
+  font-size: 15px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.Table__pageButton:disabled {
+  cursor: not-allowed;
+  color: gray;
+}
+
+.Table__pageButton--active {
+  color: #35baf6;
+  font-weight: bold;
+}

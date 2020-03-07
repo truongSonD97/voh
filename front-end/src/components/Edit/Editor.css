@@ -1,0 +1,17 @@
+.title-editor{
+  background-color: white;
+}
+.rt-thead{
+  background-color: #004d40;
+  color: white;
+}
+
+.MuiCheckbox-root{
+  padding: 0.3em 0.6em !important;
+}
+.rt-thead .MuiCheckbox-root{
+  padding: 0.1em !important;
+}
+.editor-container{
+  position: relative;
+}

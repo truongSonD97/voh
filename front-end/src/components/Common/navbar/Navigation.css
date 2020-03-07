@@ -1,0 +1,66 @@
+#log-out-btn{
+  background-color: #ffeb3b;
+}
+
+#log-out-btn:hover{
+  background-color: #f9a825;
+}
+
+.user-title{
+  color: #fff;
+  margin-right: 10px;
+}
+
+.role-title{
+  /*border-radius: 3px;*/
+  padding: 0 3px;
+  background-color: #bdbdbd;
+  color: black;
+  height: 100%;
+}
+.context{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  max-width: 100vw;
+  overflow: auto;
+}
+
+.contain-avatar{
+  /* justify-content: end; */
+  padding-right: 2rem;
+}
+.user-name{
+  color:#000;
+  margin-left: 3px;
+  margin-right: 3px;
+  flex : 0 0 auto;
+  flex-shrink: 0;
+  border-bottom: 1px solid #000;
+  margin-bottom: 2rem;
+}
+.info-user{
+  position: absolute;
+  top: 0rem;
+  right: 0rem;
+  overflow: auto;
+  width: max-content;
+  background-color: #f2ffcc;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  line-height: 0.5;
+  
+}
+.img-avatar{
+  width: 64px;
+  height: 64px;
+}
+.user-account{
+  color: #8c8c8c;
+  display: flex;
+  justify-content: center;
+}
+

@@ -1,0 +1,27 @@
+.detail-tabs button{
+  outline:none;
+}
+
+.date-picker{
+  width: 120px;
+  padding: 3px;
+}
+
+.detail-pagination{
+  position: absolute;
+  bottom: 0;
+  width: 70%;
+}
+
+.detail-tabs{
+  position: absolute !important;
+  top: 38px;
+}
+
+.export-btn{
+  position: fixed !important;
+  bottom: 50px ;
+  right: 50px;
+  background-color: #ff9100 !important;
+  outline:none !important;
+}
